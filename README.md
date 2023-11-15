@@ -4,5 +4,5 @@ cv2.Sobel() 함수 사용
 2. 출력 이미지 정밀도
 3. x방향 미분차수
 4. y방향 미분차수
-5. 커널크키
-6.ex) sobel = cv2.Sobel(img_test, cv2.CV_8U, 1, 0, 3)
+5. 커널크기
+6. ex) sobel = cv2.Sobel(img_test, cv2.CV_8U, 1, 0, 3)

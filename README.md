@@ -5,3 +5,4 @@ cv2.Sobel() 함수 사용
 3. x방향 미분차수
 4. y방향 미분차수
 5. 커널크키
+ex) sobel = cv2.Sobel(img_test, cv2.CV_8U, 1, 0, 3)
